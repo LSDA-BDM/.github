@@ -1,2 +1,1 @@
-Turning the unprecedented amounts of data being collected today into useful information is well beyond the computing power of a single general purpose CPU core. It is, therefore, crucial to know and understand the methods and tools that are able to parallelize and distribute various data analysis tasks in an efficient way on multicore CPUs and/or on a cluster of machines.
-With this goal in mind, this course first gives an overview of the popular parallel and distributed big data processing platforms. Then, it dives into scaling various machine learning tasks.
+This page contains the exercises and assignments for classes LSDA and BDM.
